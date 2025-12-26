@@ -8,6 +8,9 @@ If you find it useful, please consider supporting this project via Ko-fi:
 
 Your support helps maintain and improve this project and gives you permission to use the design for your own needs.
 
+[![Support via Ko-fi](https://img.shields.io/badge/Support-Ko--fi-red)](https://ko-fi.com/haryonobiz)
+
+
 ### ✨ Features
 - Suitable for personal and professional link bio
 - Simple and clean design
